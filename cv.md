@@ -12,7 +12,7 @@
 
    }).join(' ');
 
-   // your code
+   // yougitr code
 }
 ```
 ### no work experience
